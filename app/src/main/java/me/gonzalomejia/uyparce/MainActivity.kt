@@ -44,4 +44,5 @@ fun GreetingPreview() {
     UyParceTheme {
         Greeting("Android")
     }
+    //:)
 }
